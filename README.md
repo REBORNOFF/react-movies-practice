@@ -22,3 +22,5 @@ When the movie poster is not received from the API, the default browser placehol
 Image placeholder service - [Img Placehold](https://placehold.co/).
 
 ## Application Interface
+
+![Application Interface](./interface.png)
