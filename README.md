@@ -21,7 +21,7 @@ When the movie poster is not received from the API, the default browser placehol
 
 Image placeholder service - [Img Placehold](https://placehold.co/).
 
-## Project - https://rebornoff.github.io/react-movies-practice/
+Link to the project - https://rebornoff.github.io/react-movies-practice/
 
 ## Application Interface
 
